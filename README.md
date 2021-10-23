@@ -1,5 +1,7 @@
 # Reverse String
 
+Please note: I wrote the reverse_string.cpp and reverse_string.h files. I did not write reverse_string_test.cpp file. Thanks, Walt
+
 Reverse a string
 
 For example:
